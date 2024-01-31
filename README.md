@@ -1,5 +1,7 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://qph.cf2.quoracdn.net/main-qimg-c94aa04cf17c1a8034651d98d180874d))](https://vishak-hk.io)
 <h1 align="center">Hi 👋, I'm Vishak Kowndinya H K</h1>
 <h3 align="center">Aspiring Data Scientist sculpting insights with Python wizardry 🚀✨</h3>
+<img align="right" alt="Data Science" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-c94aa04cf17c1a8034651d98d180874d">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishak-hk&label=Profile%20views&color=0e75b6&style=flat" alt="vishak-hk" /> </p>
 
