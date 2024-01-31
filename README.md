@@ -1,4 +1,6 @@
-[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-c94aa04cf17c1a8034651d98d180874d)](https://vishak-hk.io)
+<div align="center">
+  [![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-c94aa04cf17c1a8034651d98d180874d)](https://vishak-hk.io)
+</div>
 <h1 align="center">Hi 👋, I'm Vishak Kowndinya H K</h1>
 <h3 align="center">Aspiring Data Scientist sculpting insights with Python wizardry 🚀✨</h3>
 <img align="right" alt="Data Science" width="200" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*H4cHks1eEdrW7Zlz.gif">
