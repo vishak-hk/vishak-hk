@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vishakhk24@gmail.com**
 
-- 📄 Dive into My Resume [https://drive.google.com/file/d/1PDRutEay6JaKPvs0fXG1vvmER5lIr1m3/view?usp=sharing](https://drive.google.com/file/d/1PDRutEay6JaKPvs0fXG1vvmER5lIr1m3/view?usp=sharing)
+- 📄 Dive into My Resume [Click here](https://drive.google.com/file/d/1PDRutEay6JaKPvs0fXG1vvmER5lIr1m3/view?usp=sharing)
 
 - ⚡ Fun fact **Just as honey stands the test of time, so does the enduring curiosity in Data Science. Uncover timeless insights, much like the ageless sweetness of data, in our ever-evolving analytics journey! 📊🍯✨**
 
