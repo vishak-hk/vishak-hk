@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **🚀 Data Science | 🐍 Python | 📊 Data Analytics | 🤖 Machine Learning | 📉 Statistical Analysis | 📱 SQL | 📈 Power BI | 📚 Continuous Learning**
 
-- 📫 How to reach me **vishakhk24@gmail.com**
+- 📫 How to reach me **vikowndinyahk07@gmail.com**
 
 - 📄 Dive into My Resume [Click here](https://drive.google.com/file/d/1PDRutEay6JaKPvs0fXG1vvmER5lIr1m3/view?usp=sharing)
 
