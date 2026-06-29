@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm Vishak Kowndinya H K</h1>
-<h3 align="center">Aspiring Data Scientist sculpting insights with Python wizardry 🚀✨</h3>
+<h3 align="center">Officer Data Scientist 🚀✨</h3>
 <img align="right" alt="Data Science" width="300" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishak-hk&label=Profile%20views&color=0e75b6&style=flat" alt="vishak-hk" /> </p>
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishak-kowndinya-h-k-899947230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishak-kowndinya-h-k-899947230/" height="30" width="40" /></a>
-<a href="https://kaggle.com/vishakkowndinyahk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishakkowndinyahk" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/vishakhk24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishakkowndinyahk" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vishakhk24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishakhk24" height="30" width="40" /></a>
 </p>
 
